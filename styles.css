@@ -1,0 +1,29 @@
+
+header {
+text-align: center;
+background-image: url("background.jpg");
+background-size: contain;
+box-shadow: 2px 2px 2px black;
+color: rgb(48,0,2);
+background-size: 400px;
+width: 1500px;
+height: 200px;
+border: 2px solid;
+}
+ul {
+  color:rgb(74,95,108);
+}
+a {
+  color:rgb(74,95,108);
+}
+h1 {
+  font-size: 70px;
+}
+ul {
+  padding: 10px;
+  background: black;
+}
+li {
+  display: inline;
+  padding: 2px 12px 2px 12px;
+}
